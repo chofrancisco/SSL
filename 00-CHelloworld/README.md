@@ -1,3 +1,4 @@
+# TP00: Hello World!
 - En primer lugar, se creó un repositorio publico en Github llamado SSL y se realizó una clonación utilizando la herramienta git clone. Luego, se editó el archivo README.md del repositorio para convertirlo en la página principal del mismo, agregando detalles sobre el curso, el año y los datos personales.
 - Siguiendo las pautas del trabajo práctico, se creó un directorio llamado 00-CHelloworld, en el cual se incluyó el archivo Hello.c que fue modificado para imprimir en la pantalla el mensaje "Hello World!".
 - Para compilar el archivo, se utilizó el compilador gcc-11 y se ejecutó el programa. La salida generada se redirigió al archivo output.txt mediante el comando "./a.out > output.txt".
